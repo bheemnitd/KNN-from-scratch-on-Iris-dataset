@@ -36,18 +36,17 @@ This data differs from the data presented in Fishers article (identified by Stev
   <tr align = 'center'><td align = 'left'><h5>Attribute Characteristics: </h5></td><td>Real</td><td><h5>Number of Attributes:</h5></td><td>4</td></tr>
   <tr align = 'center'><td align = 'left'><h5>Associated Tasks: </h5> </td><td>Classification</td><td><h5>Missing Values?</h5></td><td>no</td></tr>
 
-</table><br>
-
+</table>
 ## Language/Tools
 <ul>
   <li>Python3</li>
   <li>Jupyter Notebook</li>
-</ul><br>
+</ul>
 ## Important Library
 <ul>
   <li>math</li>
   <li>random</li>
-<li>pandas</li>
-</ul><br>
+  <li>pandas</li>
+</ul>
 ## Model Accuracy
   <ul><li>98%</li></ul>
