@@ -42,12 +42,12 @@ This data differs from the data presented in Fishers article (identified by Stev
 <ul>
   <li>Python3</li>
   <li>Jupyter Notebook</li>
-</ul>
+</ul><br>
 ## Important Library
 <ul>
   <li>math</li>
   <li>random</li>
 <li>pandas</li>
-</ul>  
-## Testing Accuracy
+</ul><br>
+## Model Accuracy
   <ul><li>98%</li></ul>
