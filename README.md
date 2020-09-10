@@ -39,11 +39,15 @@ This data differs from the data presented in Fishers article (identified by Stev
 </table><br>
 
 ## Language/Tools
-Python3<br>
-Jupyter Notebook<br>
+<ul>
+  <li>Python3</li>
+  <li>Jupyter Notebook</li>
+</ul>
 ## Important Library
-math<br>
-random<br>
-pandas<br>
-## Accuracy 
-98%
+<ul>
+  <li>math</li>
+  <li>random</li>
+<li>pandas</li>
+</ul>  
+## Testing Accuracy
+  <ul><li>98%</li></ul>
